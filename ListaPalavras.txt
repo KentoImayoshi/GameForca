@@ -1,0 +1,10 @@
+tartaruga
+macaco
+elefante
+gorila
+pardal
+cachorro
+gato
+papagaio
+girafa
+leopardo 
